@@ -46,7 +46,7 @@ Demonstrates LangChain's retrieval abstractions for RAG workflows. Covers:
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sothulthorn/LLM-powered-chatbot.git
    cd LLM-powered-chatbot
    ```
 
